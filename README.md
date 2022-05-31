@@ -1,2 +1,1 @@
-# ansible-role-users
-Users Ansible Role
+# Users Ansible Role

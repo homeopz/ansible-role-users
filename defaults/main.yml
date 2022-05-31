@@ -1,0 +1,14 @@
+---
+users_create_per_user_group: true
+users_group: users
+users_default_shell: /bin/bash
+users_create_homedirs: true
+users_authorized_keys_file: ".ssh/authorized_keys"
+
+users: []
+users_deleted: []
+
+# groups_to_create:
+#   - name: developers
+#     gid: 10000
+users_groups_to_create: []
